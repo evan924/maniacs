@@ -4,7 +4,7 @@
 ---
 **Thanks for reading**
 *Thanks for reading*
-`Thanks for readingi`
+`Thanks for reading`
 ---
 > BLOCKQUOTE
 
@@ -14,8 +14,16 @@ This is a list
 * 33333
 ---
 another list with number
-1 aaaaa
-2 bbbbb
-3 ccccc
+1. aaaaa
+2. bbbbb
+3. ccccc
 ---
 a [google](www.google.com)
+
+```
+# code block
+asdfasdfasdfasdf
+asdfasdfasdfasdf
+asdfasdfasdfasdf
+asdfasdfasdfasdf
+```
